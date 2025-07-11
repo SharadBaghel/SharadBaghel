@@ -6,7 +6,27 @@
 <!-- Animated Avatar -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-  <img src="https://avatars.githubusercontent.com/u/102204747?v=4" width="100" style="border-radius: 50%;" />
+ <div style="display: flex; align-items: center; gap: 10px;">
+  <img 
+    src="https://avatars.githubusercontent.com/u/102204747?v=4" 
+    width="100" 
+    style="
+      border-radius: 50%;
+      border: 3px solid #61dafb;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease-in-out;
+    " 
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="Developer Avatar"
+  />
+  <span style="
+    font-family: 'Fira Code', monospace;
+    font-size: 18px;
+    color: #61dafb;
+  ">💻 Code. Build. Repeat.</span>
+</div>
+
 </p>
 
 <h1 align="center">Hi, I'm Sharad Baghel 👨‍💻</h1>
