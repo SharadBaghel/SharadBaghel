@@ -18,13 +18,15 @@
 
 ---
 
-### 🧠 About Me
+### 👨‍🎓 About Me
 
-- 🎓 Final year student of **BTech Information Technology** at **Parul University**
-- 🧩 MERN Stack Learner – React, Node.js, MongoDB, Express
-- ⚡ Passionate about building intuitive UIs and full-stack web apps
-- 🔗 Exploring smart product ideas through projects like **Ai-Based Study Material Generator**
-- 📩 Reach me: **sharadbaghel827@gmail.com**
+🎓 BTech in Information Technology graduate from Parul University
+💻 MERN Stack Developer | React ⚛️ • Node.js 🟩 • Express 🚂 • MongoDB 🍃
+🚀 Passionate about building intuitive UIs and full-stack web applications
+🤖 Constantly exploring new technologies and diving deeper into the world of AI & innovation
+🛠️ Built projects like: AI-Based Study Material Generator – turning ideas into smart solutions
+🌱 Lifelong learner with a strong drive to grow in the tech space
+📫 Let's connect: sharadbaghel827@gmail.com
 
 ---
 
