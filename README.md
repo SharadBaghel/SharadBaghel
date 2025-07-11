@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SharadBaghel/SharadBaghel/main/assets/banner.png" alt="Sharad Baghrl Banner" />
+  <img src="https://raw.githubusercontent.com/SharadBaghel/SharadBaghel/main/assets/banner.png" alt="Sharad Baghel Banner" />
 </p>
 
 <!-- Animated Avatar -->
@@ -9,8 +9,8 @@
   <img src="https://avatars.githubusercontent.com/u/102204747?v=4" width="100" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Sharad Baghrl 👨‍💻</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Final Year BTech IT @Parul University</h3>
+<h1 align="center">Hi, I'm Sharad Baghel 👨‍💻</h1>
+<h3 align="center">🔧 Frontend Architect | ⚛️ React-Powered | 💡 UI/UX Enthusiast | 🎯 JavaScript Ninja | 🌐 Web Performance Optimizer | 🎓 IT Engineer @ Parul University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+MERN+Learner;Web+Projects+Enthusiast;Smart+Work+Advocate" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 - 🎓 Final year student of **BTech Information Technology** at **Parul University**
 - 🧩 MERN Stack Learner – React, Node.js, MongoDB, Express
 - ⚡ Passionate about building intuitive UIs and full-stack web apps
-- 🔗 Exploring smart product ideas through projects like **Frozed**
+- 🔗 Exploring smart product ideas through projects like **Ai-Based Study Material Generator**
 - 📩 Reach me: **sharadbaghel827@gmail.com**
 
 ---
@@ -54,7 +54,7 @@
 
 - 🔗 [**Frozed**](https://github.com/SharadBaghel/frozed) – Work smartly. Unlock endless possibilities.  
 - 🔗 [**FindIt**](https://github.com/SharadBaghel/findit) – Smart web dev resource finder  
-- 🔗 [**Portfolio**](https://github.com/SharadBaghel/portfolio-sharad) – Personal React portfolio  
+- 🔗 [**Portfolio**](https://github.com/SharadBaghel/Ai-study-material-generator) – AI-powered tool to instantly generate structured study material from any topic — built for students, by a student.  
 - 🔗 [**Face Motion Detection**](https://github.com/SharadBaghel/face-motion-detection) – Real-time AI detection
 
 ---
@@ -80,4 +80,4 @@
 
 ---
 
-<p align="center">🚀 Built with purpose & passion — Let's build something amazing!</p>
+<p align="center">✨ Purpose-Driven Code, Passion-Fueled Projects — Ready to Build Something Amazing!</p>
