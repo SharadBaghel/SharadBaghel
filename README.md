@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Sharad Baghel 👨‍💻</h1>
-<h3 align="center">🔧 Frontend Architect | ⚛️ React-Powered | 💡 UI/UX Enthusiast | 🎯 JavaScript Ninja | 🌐 Web Performance Optimizer | 🎓 IT Engineer @ Parul University</h3>
+<h3 align="center">🔧 Frontend Architect | ⚛️ React-Powered | 💡 UI/UX Enthusiast | 🎯 JavaScript Ninja | 🌐 Web Performance Optimizer | 🎓 IT Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=React+Developer;Full+Stack+MERN+Learner;Web+Projects+Enthusiast;Smart+Work+Advocate" alt="Typing SVG" />
