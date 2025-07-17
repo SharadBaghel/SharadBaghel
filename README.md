@@ -57,7 +57,7 @@
 
 - 🔗 [**Frozed**](https://github.com/SharadBaghel/frozed) – Work smartly. Unlock endless possibilities.  
 - 🔗 [**FindIt**](https://github.com/SharadBaghel/findit) – Smart web dev resource finder  
-- 🔗 [**Portfolio**](https://github.com/SharadBaghel/Ai-study-material-generator) – AI-powered tool to instantly generate structured study material from any topic — built for students, by a student.  
+- 🔗 [**Ai-study-material-generator**](https://github.com/SharadBaghel/Ai-study-material-generator) – AI-powered tool to instantly generate structured study material from any topic — built for students, by a student.  
 - 🔗 [**Face Motion Detection**](https://github.com/SharadBaghel/face-motion-detection) – Real-time AI detection
 
 ---
