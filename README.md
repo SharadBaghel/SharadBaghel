@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SharadBaghel/SharadBaghel/main/assets/banner.png" alt="Sharad Baghel Banner" />
-</p>
+
 
 <!-- Animated Avatar -->
 <p align="center">
